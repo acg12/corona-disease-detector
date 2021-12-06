@@ -1,5 +1,4 @@
-# corona-disease-detector
-## Baca dulu ya sebelum di run :)
+# Baca dulu ya sebelum di run :)
 
 Kalian kalo mau run, download semua file itu, jadiin 1 folder, lalu run ini di cmd:
 
